@@ -1,4 +1,4 @@
-# pineapple
+# ![pineapple](images/pineapple.gif "Pineapple logo") Pineapple
 
 ## Copy work of apple website.
 
